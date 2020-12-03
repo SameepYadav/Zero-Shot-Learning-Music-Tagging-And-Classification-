@@ -81,7 +81,8 @@ Inference
 python extract_embeddings_multi.py --load_weights PATH_TO_WEIGHT_FILE
 ```
 
-Evaluation
+n
+
 
 ```console  
 python eval.py --load_weights PATH_TO_WEIGHT_FILE
